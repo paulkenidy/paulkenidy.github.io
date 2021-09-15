@@ -11,7 +11,7 @@
       "newAppLink": "",
       
       "video": "https://drive.google.com/uc?id=12mnN1z7sUEjYCKPKur_1ZFIyV9xZz8BW",
-      "privacy": "",
+      "privacy": "https://paulkenidy.blogspot.com/p/privacy.html",
       
       "spancount": 1,
       
